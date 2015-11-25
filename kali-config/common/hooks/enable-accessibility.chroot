@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# enable brltty in the initramfs
+update-initramfs -u
+

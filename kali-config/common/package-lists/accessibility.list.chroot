@@ -1,0 +1,7 @@
+# Adding braille support
+brltty
+libbrlapi-java
+libbrlapi-jni 
+libbrlapi0.6 
+python3-brlapi
+xbrlapi
