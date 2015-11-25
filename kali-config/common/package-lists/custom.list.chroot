@@ -1,0 +1,3 @@
+# include openssh client and server packages
+openssh-client
+openssh-server
